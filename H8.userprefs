@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/build.cs">
+    <Files>
+      <File FileName="../../classnotes/week8/Assets/script/TenPrint.cs" Line="32" Column="3" />
+      <File FileName="Assets/script/build.cs" Line="40" Column="54" />
+      <File FileName="Assets/script/dog.cs" Line="7" Column="65" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Ryan/Documents/Fall 2014/bulidingworlds/HW/H8/Assets/script/BoneHuman.cs" line="36" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
